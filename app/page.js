@@ -88,7 +88,7 @@ export default function Home() {
           <LocationOnIcon className="text-red-500 text-3xl" />
           <div>
             <h1 className="text-lg font-bold">Qo'yliq</h1>
-            <p className="text-gray-600">☎️Tel: +998 94 641 12 34</p>
+            <p className="text-gray-600">☎️Tel: +998 94 622 12 34</p>
           </div>
         </a>
         <a target="_blank"
@@ -108,7 +108,7 @@ export default function Home() {
           <LocationOnIcon className="text-red-500 text-3xl" />
           <div>
             <h1 className="text-lg font-bold">Chilonzor Metro</h1>
-            <p className="text-gray-600">☎️Tel: +998 94 622 12 34</p>
+            <p className="text-gray-600">☎️Tel: +998 77 073 94 44</p>
           </div>
         </a>
       </div>
